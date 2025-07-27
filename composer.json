@@ -1,0 +1,12 @@
+{
+    "name": "faylina/flowing_funds",
+    "description": "A PHP expense tracker using the MVC design pattern",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
